@@ -9,3 +9,10 @@ The first chapter starts in the folder 'clt_app', head over there with the book 
 
 #### Book Edits
 Streamlit is an ever-changing library, and by the time this book was written it was already slightly behind compared to newer versions of the library. If you notice error messages, please message me about them so I can get them all fixed or note them below!
+
+<!--
+## Errata
+-->
+<!--
+* Page 11 (Code Block, line 3): **binom_dist = np.random.binomial(1, .5, 100)** _should be_ **binom_dist = np.random.binomial(1, .5, 1000)**
+-->
